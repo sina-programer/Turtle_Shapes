@@ -11,7 +11,7 @@ class Shape:
         self.turtle.pensize(size)
         self.turtle.speed(speed)
         
-    def draw(self, times=72):
+    def draw(self, times=30):
         for time in range(times):
             for side in range(4):
                 self.draw_line()

@@ -1,5 +1,6 @@
 # Turtle_Shapes
-In this repository, you can see my turtle shapes that really are amazing
+Have you ever thought that we can create interesting and beautiful designs by our creativity just by simple tools like turtle library in python <br>
+Do you have any idea? take a look at my designs
 
 ## Samples:
 
@@ -12,11 +13,5 @@ In this repository, you can see my turtle shapes that really are amazing
 ### [Batman Shape](https://github.com/sina-programer/Turtle_Shapes/tree/main/Batman%20Shape):
 <img align='center' src='https://github.com/sina-programer/Turtle_Shapes/blob/main/Batman%20Shape/Batman_Shape%20preview.jpg' width=400>
 
-## **Reach Me:**
-- [sina_programer](https://t.me/sina_programer) in telegram
-- [sina.programer](https://www.instagram.com/sina.programer) in instagram
-
-## **See Also:**
-- [X Polygon](https://github.com/sina-programer/X_Polygon)
-- [Parabola Calculator](https://github.com/sina-programer/Parabola_Calculator)
-- [Background Changer](https://github.com/sina-programer/Background_Changer)
+## Reach Me:
+- [sina_programer](https://t.me/sina_programer) in telegram (when texting, please mention that you are coming from GitHub and introduce yourself)
